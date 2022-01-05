@@ -9,7 +9,7 @@ Clone the repo to your machine
    `npm install` if you are using npm or `yarn` if you are using yarn.
 3. Run the fowllowing command to get into the right path for smart contract project
     `cd <..>` then
-   `cd <../path/to/Ethkrypto/smart_contract>`   
+   `cd <smart_contract>`   
 4. Run one of the next commands to install the required dependencies
    `npm install` if you are using npm or `yarn` if you are using yarn.   
    
