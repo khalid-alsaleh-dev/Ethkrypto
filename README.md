@@ -7,5 +7,10 @@ Clone the repo to your machine
    `cd <../path/to/clonedFolder>`   
 2. Run one of the next commands to install the required dependencies
    `npm install` if you are using npm or `yarn` if you are using yarn.
+   
+# Install the MetaMask extension 
+Make sure to install MetaMask on your borwser and connect to your wallet account.
+
+
 
 Then you are ready to use the app 😀👍
