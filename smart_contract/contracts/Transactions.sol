@@ -3,7 +3,6 @@ pragma solidity ^0.8.0;
 
 contract Transactions {
     uint256 transactionsCount;
-// this event is gonna do the real action😀
     event Transfer(
         address from,
         address receiver,
