@@ -1,5 +1,5 @@
 # Ethkrypto #
-A web3.0 blockchain application to make ethereum transactions built using react typescript on the frontend and solidity language for the smart contract.
+A web3.0 blockchain application to make ethereum transactions built using react typescript on the frontend and solidity for developing smart contracts.
 
 # Download & Install Dependencies on your machine #
 Clone the repo to your machine
