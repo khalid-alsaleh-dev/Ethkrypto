@@ -18,4 +18,4 @@ Make sure to install MetaMask on your borwser and connect to your wallet account
 
 
 
-Then you are ready to use the app 😀👍
+Then you are ready to use the project😀👍
